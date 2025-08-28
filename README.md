@@ -1,4 +1,4 @@
-# Check-List-Demoshopping
+# Check List Demoshopping
 ---
 
 ### Instructions:
